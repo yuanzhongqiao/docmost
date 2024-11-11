@@ -1,36 +1,30 @@
-<div align="center">
-    <h1><b>Docmost</b></h1>
-    <p>
-        Open-source collaborative wiki and documentation software.
-        <br />
-        <a href="https://docmost.com"><strong>Website</strong></a> | 
-        <a href="https://docmost.com/docs"><strong>Documentation</strong></a>
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+    <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><b _msttexthash="8082230" _msthash="241">Docmost 公司</b></h1><a id="user-content-docmost" class="anchor" aria-label="永久链接： Docmost" href="#docmost" _mstaria-label="338377" _msthash="242"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+    <p dir="auto"><font _mstmutation="1" _msttexthash="77395630" _msthash="243">开源协作 Wiki 和文档软件。<br _mstmutation="1" _istranslated="1"> <a href="https://docmost.com" rel="nofollow" _mstmutation="1" _istranslated="1"><strong _istranslated="1">网站</strong></a> |<a href="https://docmost.com/docs" rel="nofollow" _mstmutation="1" _istranslated="1"><strong _istranslated="1">文档</strong></a></font>
     </p>
 </div>
-<br />
-
-> [!NOTE]  
-> Docmost is currently in **beta**. We value your feedback as we progress towards a stable release.
-
-## Getting started
-To get started with Docmost, please refer to our [documentation](https://docmost.com/docs).
-
-## Features
-- Real-time collaboration
-- Diagrams (Draw.io, Excalidraw and Mermaid)
-- Spaces
-- Permissions management
-- Groups
-- Comments
-- Page history
-- Search
-- File attachment
-
-#### Screenshots
-<p align="center">
-<img alt="home" src="https://docmost.com/screenshots/home.png" width="70%">
-<img alt="editor" src="https://docmost.com/screenshots/editor.png" width="70%">
+<br>
+<div class="markdown-alert markdown-alert-note" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg><font _mstmutation="1" _msttexthash="5121168" _msthash="244">注意</font></p><p dir="auto" _msttexthash="432297567" _msthash="245">Docmost 目前处于<strong _istranslated="1">测试阶段</strong>。在我们朝着稳定版本迈进的过程中，我们非常重视您的反馈。</p>
+</div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4603768" _msthash="246">开始</h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接： 开始使用" href="#getting-started" _mstaria-label="601445" _msthash="247"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="104090337" _msthash="248">要开始使用 Docmost，请参阅我们的<a href="https://docmost.com/docs" rel="nofollow" _istranslated="1">文档</a>。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5209451" _msthash="249">特征</h2><a id="user-content-features" class="anchor" aria-label="永久链接：功能" href="#features" _mstaria-label="370552" _msthash="250"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="9985261" _msthash="251">实时协作</li>
+<li _msttexthash="55155126" _msthash="252">图表（Draw.io、Excalidraw 和 Mermaid）</li>
+<li _msttexthash="6845566" _msthash="253">空间</li>
+<li _msttexthash="13971698" _msthash="254">权限管理</li>
+<li _msttexthash="2953132" _msthash="255">组</li>
+<li _msttexthash="6976060" _msthash="256">评论</li>
+<li _msttexthash="12877449" _msthash="257">页面历史</li>
+<li _msttexthash="5663684" _msthash="258">搜索</li>
+<li _msttexthash="11596013" _msthash="259">文件附件</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="10497227" _msthash="260">屏幕截图</h4><a id="user-content-screenshots" class="anchor" aria-label="永久链接： 屏幕截图" href="#screenshots" _mstaria-label="484146" _msthash="261"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/242ed60fe9d9d3c7e1d8d7d3f64d28d23c0a81e5963265880095e0e9c7604205/68747470733a2f2f646f636d6f73742e636f6d2f73637265656e73686f74732f686f6d652e706e67"><img alt="家" src="https://camo.githubusercontent.com/242ed60fe9d9d3c7e1d8d7d3f64d28d23c0a81e5963265880095e0e9c7604205/68747470733a2f2f646f636d6f73742e636f6d2f73637265656e73686f74732f686f6d652e706e67" width="70%" data-canonical-src="https://docmost.com/screenshots/home.png" style="max-width: 100%;" _mstalt="46891" _msthash="262"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b02f50fa0be32848b155924181e143ef10dd55c0a7a0bc491fffc12b807159ed/68747470733a2f2f646f636d6f73742e636f6d2f73637265656e73686f74732f656469746f722e706e67"><img alt="编辑 器" src="https://camo.githubusercontent.com/b02f50fa0be32848b155924181e143ef10dd55c0a7a0bc491fffc12b807159ed/68747470733a2f2f646f636d6f73742e636f6d2f73637265656e73686f74732f656469746f722e706e67" width="70%" data-canonical-src="https://docmost.com/screenshots/editor.png" style="max-width: 100%;" _mstalt="80613" _msthash="263"></a>
 </p>
-
-### Contributing 
-See the [development documentation](https://docmost.com/docs/self-hosting/development)
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="264">贡献</h3><a id="user-content-contributing" class="anchor" aria-label="永久链接： 贡献" href="#contributing" _mstaria-label="521066" _msthash="265"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="19110078" _msthash="266">查看<a href="https://docmost.com/docs/self-hosting/development" rel="nofollow" _istranslated="1">开发文档</a></p>
+</article></div>
